@@ -1,2 +1,2 @@
-# Gemas
+# Games
 Free games
